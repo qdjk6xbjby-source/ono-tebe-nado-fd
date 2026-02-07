@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-https://github.com/qdjk6xbjby-source/ono-tebe-nado
+https://github.com/qdjk6xbjby-source/ono-tebe-nado-fd/tree/autotest
 =======
 # ono-tebe-nado
 ya practicum
